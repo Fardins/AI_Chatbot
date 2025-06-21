@@ -1,4 +1,9 @@
 # AI_Chatbot With Memory
+
+<p align="center">
+  <img src="./outputs/output.gif" alt="Output" width="60%" />
+</p>
+
 This is a conversational AI chatbot built with Streamlit and LangChain, featuring persistent conversation memory and powered by Meta's Llama 3.1 8B model via Hugging Face.
 
 Experience intelligent conversations with context-aware responses that remember your entire chat history. This lightweight yet powerful application combines the simplicity of Streamlit's web interface with the robustness of LangChain's conversation management, delivering seamless AI interactions powered by one of the most advanced open-source language models available.
